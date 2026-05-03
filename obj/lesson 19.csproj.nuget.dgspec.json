@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rizoakramov/Desktop/lesson 19/lesson 19.csproj": {}
+    "/Users/rizoakramov/Desktop/c#/lesson 19/lesson 19.csproj": {}
   },
   "projects": {
-    "/Users/rizoakramov/Desktop/lesson 19/lesson 19.csproj": {
+    "/Users/rizoakramov/Desktop/c#/lesson 19/lesson 19.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rizoakramov/Desktop/lesson 19/lesson 19.csproj",
+        "projectUniqueName": "/Users/rizoakramov/Desktop/c#/lesson 19/lesson 19.csproj",
         "projectName": "lesson 19",
-        "projectPath": "/Users/rizoakramov/Desktop/lesson 19/lesson 19.csproj",
+        "projectPath": "/Users/rizoakramov/Desktop/c#/lesson 19/lesson 19.csproj",
         "packagesPath": "/Users/rizoakramov/.nuget/packages/",
-        "outputPath": "/Users/rizoakramov/Desktop/lesson 19/obj/",
+        "outputPath": "/Users/rizoakramov/Desktop/c#/lesson 19/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rizoakramov/.nuget/NuGet/NuGet.Config"
